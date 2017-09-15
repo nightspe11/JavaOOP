@@ -17,7 +17,7 @@ public class Rectangles {
     public int totalArea() {
         int area = 0;
         for (Rectangle i : recList) {
-            area = area + i.area();
+            area += i.area();
         }
         return area;
     }
