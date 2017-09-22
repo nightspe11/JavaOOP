@@ -1,12 +1,19 @@
 package hw1;
 
-public class Rectangle {
-    private int h;
-    private int w;
-    private int ID;
+public class Rectangle implements Shape {
+    private final int h; //final for immutable
+    private final int w;
+    private final int ID;
     public static int cnt;
 
+    /**
+     * Constructor
+     *
+     * @param h
+     * @param w throw exceptions...
+     */
     public Rectangle(int h, int w) {
+        //if(w<0) exception
         this.h = h;
         this.w = w;
         cnt++;
@@ -29,11 +36,12 @@ public class Rectangle {
         return w;
     }
 
-    public int perim() {
+    public double perim() {
         return 2 * h + 2 * w;
     }
 
-    public int area() {
+    public double area() {
         return h * w;
     }
+
 }

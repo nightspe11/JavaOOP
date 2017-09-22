@@ -4,11 +4,11 @@ import java.util.ArrayList;
 
 public class Rectangles {
 
-    private ArrayList<Rectangle> recList = new ArrayList<>();
+    private final ArrayList<Rectangle> recList = new ArrayList<Rectangle>();
 
-    public Rectangles() {
+   /* public Rectangles() {
         this.recList = recList;
-    }
+    }*/
 
     public void addRectangle(Rectangle r) {
         recList.add(r);
@@ -28,5 +28,12 @@ public class Rectangles {
             System.out.println(i.getW() + " x " + i.getH() + "\t S=" + i.area());
         }
         System.out.println("Суммарная площадь: " + this.totalArea());
+    }
+
+    @Override
+    public String toString() {
+        return "Rectangles{" +
+                "recList=" + recList +
+                '}';
     }
 }
