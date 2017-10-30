@@ -41,7 +41,7 @@ public class Folder {
             System.out.println(name + " contains folders: ");
             for (Folder d : folders) {
                 System.out.println(d.getName()+", s: "+d.getSize());
-               // if (d.size > 0) d.getTree();
+                if (d.size > 0) d.getTree();
             }
         }
         if (files.size() > 0) {

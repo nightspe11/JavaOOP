@@ -1,4 +1,4 @@
-package cw2;
+package cw;
 
 public class Test {
     public static void main(String[] args) {
