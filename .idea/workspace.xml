@@ -12,122 +12,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cars.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/Cars.java">
+      <file leaf-file-name="RunTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kursach3/RunTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StockItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/storage/suppliers/StockItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/user/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/user/ClientType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="-1404">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stock.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/storage/suppliers/Stock.java">
+      <file leaf-file-name="StocksReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kursach3/io/StocksReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#Stock#0;class#Stock#0" expanded="false" />
-                <element signature="method#select#0;class#Stock#0" expanded="false" />
-                <element signature="method#insert#0;class#Stock#0" expanded="false" />
-                <element signature="method#delete#0;class#Stock#0" expanded="false" />
-                <element signature="method#toString#0;class#Stock#0" expanded="false" />
-                <element signature="method#equals#0;class#Stock#0" expanded="false" />
-                <element signature="method#hashCode#0;class#Stock#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stocks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/storage/suppliers/Stocks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/user/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="82" column="12" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RelativeTolerance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/tolerances/RelativeTolerance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/CarItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="202">
+              <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -173,33 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/kursach/logistics/Office.java" />
-        <option value="$PROJECT_DIR$/src/kursach/user/Order.java" />
-        <option value="$PROJECT_DIR$/src/kursach/user/Client.java" />
-        <option value="$PROJECT_DIR$/src/kursach/logistics/Delivery.java" />
-        <option value="$PROJECT_DIR$/src/kursach/logistics/LocalPickup.java" />
-        <option value="$PROJECT_DIR$/src/kursach/logistics/NovaPoshta.java" />
-        <option value="$PROJECT_DIR$/src/kursach/logistics/Offices.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/Office.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/Offices.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/offices/Office.java" />
-        <option value="$PROJECT_DIR$/src/kursach/delivery/Delivery.java" />
-        <option value="$PROJECT_DIR$/src/kursach/delivery/LocalPickup.java" />
-        <option value="$PROJECT_DIR$/src/kursach/delivery/NovaPoshta.java" />
-        <option value="$PROJECT_DIR$/src/trash/IItem.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/Storable.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/offices/Offices.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/supplier/GeneralItem.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/supplier/Stocks.java" />
-        <option value="$PROJECT_DIR$/src/kursach/user/Cart.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/GeneralItem.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/supplier/StockItem.java" />
-        <option value="$PROJECT_DIR$/src/kursach/user/RunTest.java" />
-        <option value="$PROJECT_DIR$/src/kursach/storage/supplier/Stock.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/storage/supplier/Stock.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/storage/supplier/Stocks.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/user/RunTest.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/storage/cars/Tolerance.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/AbsoluteTolerance.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/RelativeTolerance.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/tolerances/Tolerance.java" />
@@ -210,8 +82,6 @@
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/CarItem.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/suppliers/StockItem.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/Parameter.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/user/Cart.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/user/Client.java" />
         <option value="$PROJECT_DIR$/src/kursach2/user/Order.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/offices/Office.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/Car.java" />
@@ -219,11 +89,40 @@
         <option value="$PROJECT_DIR$/src/kursach2/storage/suppliers/Stocks.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/offices/Offices.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/Cars.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/RunTest.java" />
-        <option value="$PROJECT_DIR$/src/kursach2/delivery/NovaPoshta.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/GeneralItem.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/cars/tolerances/RelativeTolerance.java" />
         <option value="$PROJECT_DIR$/src/kursach2/storage/suppliers/Stock.java" />
+        <option value="$PROJECT_DIR$/src/kursach2/delivery/NovaPoshta.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/user/Cart.java" />
+        <option value="$PROJECT_DIR$/src/kursach2/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/kursach2/user/Client.java" />
+        <option value="$PROJECT_DIR$/src/kursach2/user/Cart.java" />
+        <option value="$PROJECT_DIR$/src/zkursach2/user/Cart.java" />
+        <option value="$PROJECT_DIR$/files/test.csv" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/offices/Offices.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/offices/Office.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/Cars.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/Car.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/ItemType.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/Parameter.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/Tolerance.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/RelativeTolerance.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/DescriptionMatch.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/AbsoluteTolerance.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/GeneralItem.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/cars/CarItem.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/Binary.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/Reader.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/PrintList.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/ParseInt.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/suppliers/Stocks.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/StockWriter.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/suppliers/Stock.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/storage/suppliers/StockItem.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/StocksWriter.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/Settings.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/io/StocksReader.java" />
+        <option value="$PROJECT_DIR$/src/kursach3/RunTest.java" />
       </list>
     </option>
   </component>
@@ -254,9 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,33 +164,20 @@
             <path>
               <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kursach2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kursach2" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kursach2" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="suppliers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,6 +191,9 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nightspell\IdeaProjects\JavaOOP\src" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="kursach2.storage.cars" />
       <recent name="hw1" />
@@ -409,7 +295,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="kursach2.RunTest" />
+      <option name="MAIN_CLASS_NAME" value="kursach3.RunTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -542,7 +428,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -552,25 +437,25 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.50292826" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32120255" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23101266" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17935579" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17935579" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17879747" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1749634" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39873418" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
@@ -596,12 +481,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32120255" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23101266" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17935579" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17879747" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -614,84 +499,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw4/RunNeedRrewrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cw/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw6/FilmRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="78" lean-forward="false" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw7pair/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw6/Genre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw4/Folder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw4/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="211" column="28" lean-forward="false" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/kursach.StockItem" />
-    <entry file="uml://JAVA/kursach.Stock" />
-    <entry file="uml://JAVA/kursach.RunTest" />
     <entry file="uml://JAVA/hw7pair.Test" />
     <entry file="file://$PROJECT_DIR$/src/hw6/Film.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -721,42 +533,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="48" column="115" lean-forward="false" selection-start-line="48" selection-start-column="96" selection-end-line="48" selection-end-column="115" />
-          <folding>
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#326#327#0" expanded="false" />
-            <element signature="e#358#359#0" expanded="false" />
-            <element signature="e#417#418#0" expanded="false" />
-            <element signature="e#737#738#0" expanded="false" />
-            <element signature="e#781#782#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/hw4.File">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>hw4.File</OriginalElement>
-          <nodes>
-            <node x="" y="">hw4.File</node>
-            <node x="" y="">hw4.RunNeedRrewrite</node>
-            <node x="" y="">hw4.Folder</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="70.0" y="88.5" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
+    <entry file="uml://JAVA/hw4.File" />
     <entry file="file://$PROJECT_DIR$/src/trash/IItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,94 +548,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/delivery/Delivery.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/delivery/Delivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/delivery/LocalPickup.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/delivery/LocalPickup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/tolerances/Tolerance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/ItemType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/user/OrderStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/kursach2.RunTest">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>kursach2.RunTest</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">kursach2.RunTest</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-275.0" y="37.5" />
-          <SelectedNodes>
-            <node>kursach2.RunTest</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/Parameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/user/Cart.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/user/OrderStatus.java" />
+    <entry file="uml://JAVA/kursach2.RunTest" />
+    <entry file="file://$PROJECT_DIR$/src/kursach3/user/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -861,208 +577,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/RunTest.java">
+    <entry file="uml://JAVA/kursach2" />
+    <entry file="file://$PROJECT_DIR$/src/kursach3/user/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/delivery/NovaPoshta.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/user/ClientType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/user/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/delivery/NovaPoshta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="false" />
+            <element signature="e#1031#1032#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/kursach2">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>kursach2</OriginalElement>
-          <nodes>
-            <node x="650.2500000000001" y="156.0">kursach2.storage.cars.Car</node>
-            <node x="234.2500000000001" y="210.5">kursach2.storage.GeneralItem</node>
-            <node x="0.0" y="545.0">kursach2.storage.cars.CarItem</node>
-            <node x="512.0" y="1481.0">kursach2.storage.cars.tolerances.AbsoluteTolerance</node>
-            <node x="380.0000000000001" y="611.0">kursach2.storage.suppliers.StockItem</node>
-            <node x="1676.25" y="222.0">kursach2.delivery.NovaPoshta</node>
-            <node x="1830.8020833333335" y="0.0">kursach2.delivery.Delivery</node>
-            <node x="268.0" y="1358.0">kursach2.storage.cars.tolerances.Tolerance</node>
-            <node x="1403.25" y="177.5">kursach2.storage.suppliers.Stock</node>
-            <node x="253.0" y="1481.0">kursach2.storage.cars.tolerances.RelativeTolerance</node>
-            <node x="1208.25" y="244.5">kursach2.storage.suppliers.Stocks</node>
-            <node x="1034.75" y="0.5">kursach2.storage.Storable</node>
-            <node x="1300.0" y="907.0">kursach2.storage.cars.ItemType</node>
-            <node x="0.0" y="1599.0">kursach2.RunTest</node>
-            <node x="1029.25" y="255.5">kursach2.storage.cars.Cars</node>
-            <node x="1917.25" y="266.5">kursach2.delivery.LocalPickup</node>
-            <node x="449.2500000000001" y="255.5">kursach2.storage.offices.Offices</node>
-            <node x="1001.0" y="907.0">kursach2.storage.offices.Office</node>
-            <node x="397.0" y="907.0">kursach2.storage.cars.Parameter</node>
-            <node x="0.0" y="907.0">kursach2.user.Client</node>
-            <node x="762.0" y="907.0">kursach2.user.Order</node>
-            <node x="1244.0" y="1358.0">kursach2.user.ClientType</node>
-            <node x="1089.0" y="1358.0">kursach2.user.OrderStatus</node>
-            <node x="0.0" y="1481.0">kursach2.storage.cars.tolerances.DescriptionMatch</node>
-            <node x="796.0" y="1358.0">kursach2.user.Cart</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="kursach2.delivery.NovaPoshta" target="kursach2.storage.Storable">
-              <point x="-55.25" y="-103.5" />
-              <point x="1731.5" y="116.0" />
-              <point x="1172.1785714285716" y="116.0" />
-              <point x="63.42857142857133" y="47.5" />
-            </edge>
-            <edge source="kursach2.storage.suppliers.Stock" target="kursach2.storage.Storable">
-              <point x="0.0" y="-148.0" />
-              <point x="1529.75" y="126.0" />
-              <point x="1151.0357142857142" y="126.0" />
-              <point x="42.28571428571422" y="47.5" />
-            </edge>
-            <edge source="kursach2.storage.cars.Cars" target="kursach2.storage.Storable">
-              <point x="0.0" y="-70.0" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="kursach2.storage.suppliers.StockItem" target="kursach2.storage.GeneralItem">
-              <point x="0.0" y="-92.5" />
-              <point x="483.5000000000001" y="520.0" />
-              <point x="380.5000000000001" y="520.0" />
-              <point x="48.75" y="115.0" />
-            </edge>
-            <edge source="kursach2.storage.GeneralItem" target="kursach2.storage.Storable">
-              <point x="0.0" y="-115.0" />
-              <point x="331.7500000000001" y="116.0" />
-              <point x="1045.321428571429" y="116.0" />
-              <point x="-63.42857142857133" y="47.5" />
-            </edge>
-            <edge source="kursach2.storage.offices.Offices" target="kursach2.storage.Storable">
-              <point x="0.0" y="-70.0" />
-              <point x="539.7500000000001" y="126.0" />
-              <point x="1066.4642857142858" y="126.0" />
-              <point x="-42.28571428571422" y="47.5" />
-            </edge>
-            <edge source="kursach2.storage.suppliers.Stocks" target="kursach2.storage.Storable">
-              <point x="0.0" y="-81.0" />
-              <point x="1295.75" y="136.0" />
-              <point x="1129.8928571428573" y="136.0" />
-              <point x="21.14285714285711" y="47.5" />
-            </edge>
-            <edge source="kursach2.storage.cars.CarItem" target="kursach2.storage.GeneralItem">
-              <point x="0.0" y="-158.5" />
-              <point x="180.0" y="520.0" />
-              <point x="283.0000000000001" y="520.0" />
-              <point x="-48.75" y="115.0" />
-            </edge>
-            <edge source="kursach2.storage.cars.tolerances.RelativeTolerance" target="kursach2.storage.cars.tolerances.Tolerance">
-              <point x="0.0" y="-36.5" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="kursach2.delivery.NovaPoshta" target="kursach2.delivery.Delivery">
-              <point x="55.25" y="-103.5" />
-              <point x="1842.0" y="136.0" />
-              <point x="1886.0520833333335" y="136.0" />
-              <point x="-55.25" y="48.0" />
-            </edge>
-            <edge source="kursach2.storage.cars.tolerances.DescriptionMatch" target="kursach2.storage.cars.tolerances.Tolerance">
-              <point x="0.0" y="-36.5" />
-              <point x="116.5" y="1456.0" />
-              <point x="302.8333333333333" y="1456.0" />
-              <point x="-69.66666666666669" y="36.5" />
-            </edge>
-            <edge source="kursach2.storage.cars.tolerances.AbsoluteTolerance" target="kursach2.storage.cars.tolerances.Tolerance">
-              <point x="0.0" y="-36.5" />
-              <point x="631.5" y="1456.0" />
-              <point x="442.1666666666667" y="1456.0" />
-              <point x="69.66666666666669" y="36.5" />
-            </edge>
-            <edge source="kursach2.storage.cars.Car" target="kursach2.storage.Storable">
-              <point x="0.0" y="-169.5" />
-              <point x="829.7500000000001" y="136.0" />
-              <point x="1087.6071428571431" y="136.0" />
-              <point x="-21.14285714285711" y="47.5" />
-            </edge>
-            <edge source="kursach2.delivery.LocalPickup" target="kursach2.delivery.Delivery">
-              <point x="0.0" y="-59.0" />
-              <point x="2027.75" y="136.0" />
-              <point x="1996.5520833333335" y="136.0" />
-              <point x="55.25" y="48.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.40000000000000013" x="478.9999999999998" y="420.9999999999998" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Inner Classes</Category>
-            <Category>Properties</Category>
-            <Category>Methods</Category>
-            <Category>Constructors</Category>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/zkursach2/user/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/zkursach2/user/Cart.java" />
+    <entry file="file://$PROJECT_DIR$/src/zkursach2/RunTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/zkursach2/storage/cars/Parameter.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/GeneralItem.java">
+    <entry file="file://$PROJECT_DIR$/files/test.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <marker date="1509835099922" expanded="true" signature="570:576" ph=" }" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/Storable.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/Storable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/offices/Office.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/offices/Offices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="85">
+          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/offices/Offices.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/Tolerance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="34">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/RelativeTolerance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/DescriptionMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/tolerances/AbsoluteTolerance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/ItemType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="66" lean-forward="false" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/Parameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/tolerances/AbsoluteTolerance.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/CarItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/cars/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/offices/Office.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/io/ParseInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/tolerances/DescriptionMatch.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/io/BinaryFilesConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/io/PrintList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -1070,106 +752,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/tolerances/RelativeTolerance.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/suppliers/Stocks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/GeneralItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1510087434883" expanded="true" signature="709:715" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/io/StocksWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/suppliers/StockItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/user/Order.java">
+    <entry file="file://$PROJECT_DIR$/files/stocks.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/user/ClientType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/CarItem.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/io/Settings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/cars/Cars.java">
+    <entry file="file://$PROJECT_DIR$/src/kursach3/storage/suppliers/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="459">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/suppliers/StockItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/suppliers/Stocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/user/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="82" column="12" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kursach2/storage/suppliers/Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Stock#0;class#Stock#0" expanded="false" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
             <element signature="method#select#0;class#Stock#0" expanded="false" />
-            <element signature="method#insert#0;class#Stock#0" expanded="false" />
             <element signature="method#delete#0;class#Stock#0" expanded="false" />
-            <element signature="method#toString#0;class#Stock#0" expanded="false" />
-            <element signature="method#equals#0;class#Stock#0" expanded="false" />
-            <element signature="method#hashCode#0;class#Stock#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/io/StocksReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kursach3/RunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1404">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
